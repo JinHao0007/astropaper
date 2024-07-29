@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3787e3972915945c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "蚌埠住了哈哈哈哈.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md",
+                "file": "蚌埠住了哈哈哈哈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md",
+                "file": "蚌埠住了哈哈哈哈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md"
+                "file": "蚌埠住了哈哈哈哈.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9664250b6d343bfd",
+  "active": "3787e3972915945c",
   "lastOpenFiles": [
-    "博客已完成迁移.md",
     "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md",
+    "蚌埠住了哈哈哈哈.md",
+    "博客已完成迁移.md",
     "3001天！.md",
     "VIVO&IQOO关于i主题不降级导入字体的教程.md",
     "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md",
