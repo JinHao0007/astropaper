@@ -5,6 +5,7 @@ pubDate: 10 02 2023
 tags:
   - 杂谈
   - 游戏
+image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/Screenshot_20240801_004450.jpg
 ---
 ![](https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/A%20(1).png)
 ![](https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/A%20(2).png)

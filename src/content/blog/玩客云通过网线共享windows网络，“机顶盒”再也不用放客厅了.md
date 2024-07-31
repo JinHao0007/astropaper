@@ -4,6 +4,7 @@ description: 折腾玩客云
 pubDate: 05 03 2024
 tags:
   - 技术
+image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/Screenshot_20240801_004450.jpg
 ---
 
 之前在寒假的时候30软妹币收了一块“电子垃圾”玩客云，主要想折腾一下，当个私人NAS啥的（当代赛博仓鼠现状）于是就刷了Armbian+CasaOS，至于刷机过程多么艰辛啥的，咱这篇先不讨论哈~这篇主要来说说我是怎么把玩客云从客厅“搬”到卧室的。
