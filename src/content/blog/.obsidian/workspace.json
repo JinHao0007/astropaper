@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "博客已完成迁移.md",
+                "file": "AIR.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e032cb40afd11788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIVO&IQOO关于i主题不降级导入字体的教程.md",
+                "file": "AIR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIVO&IQOO关于i主题不降级导入字体的教程.md",
+                "file": "AIR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIVO&IQOO关于i主题不降级导入字体的教程.md"
+                "file": "AIR.md"
               }
             }
           }
@@ -183,21 +194,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "97109a958295bc86",
+  "active": "38e37914a13b30e5",
   "lastOpenFiles": [
+    "杂谈·One.md",
+    "饮月！！.md",
+    "AIR.md",
+    "博客已完成迁移.md",
+    "ATRI.md",
+    "VIVO&IQOO关于i主题不降级导入字体的教程.md",
     "棋王の诗.md",
     "窝の桌面.md",
     "蚌埠住了哈哈哈哈.md",
-    "VIVO&IQOO关于i主题不降级导入字体的教程.md",
     "hello-world.md",
-    "ATRI.md",
     "中秋无月.md",
-    "杂谈·One.md",
-    "饮月！！.md",
     "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md",
     "关于初次搭建博客遇到的一些问题.md",
     "第一次建个人博客.md",
-    "博客已完成迁移.md",
     "3001天！.md",
     "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md",
     "“时光流转，愿你与珍爱之人再次相遇”.md"
