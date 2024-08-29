@@ -11,7 +11,7 @@ export const USER_NAME = "乄轩丶辕°";  //用户名
 export const USER_AVATAR = "/profile.webp";  //头像
 
 // Server and transition settings
-export const SERVER_URL = "https://demo.saroprock.com"; //评论
+export const SERVER_URL = "hhttps://walinecomment-hd6s028vp-jinhao0007s-projects.vercel.app/"; //评论
 export const TRANSITION_API = true;
 
 // Some informative text on the site
