@@ -516,7 +516,7 @@ export const sakuraConfig: SakuraConfig = {
 
 // Pio 看板娘配置
 export const pioConfig: import("./types/config").PioConfig = {
-	enable: true, // 启用看板娘
+	enable: false, // 启用看板娘
 	models: ["/pio/models/sagiri/sagiri.model.json"], // 默认模型路径
 	position: "left", // 默认位置在右侧
 	width: 280, // 默认宽度
@@ -537,6 +537,7 @@ export const pioConfig: import("./types/config").PioConfig = {
 		link: "https://github.com/matsuzaka-yuki/Mizuki", // 关于链接
 	},
 };
+
 
 // 导出所有配置的统一接口
 export const widgetConfigs = {
