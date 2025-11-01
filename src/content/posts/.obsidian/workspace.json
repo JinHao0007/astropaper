@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "1e28184482b8f26f",
+    "type": "split",
+    "children": [
+      {
+        "id": "398e3b32dcd0e801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "334d26f30b656a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATRI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ATRI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a7ff21ed33a2dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "58a430335c69e1e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "616e8392672884e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7e8bccbe252fed3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2c4acd8ddfc356fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "703721ffaf29c518",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c3dc2b83200c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a71245e6837883a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "关于初次搭建博客遇到的一些问题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "关于初次搭建博客遇到的一些问题 的反向链接列表"
+            }
+          },
+          {
+            "id": "f824664da249a867",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "关于初次搭建博客遇到的一些问题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "关于初次搭建博客遇到的一些问题 的出链列表"
+            }
+          },
+          {
+            "id": "a50d3f6bddc5b8da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f0d6f304a68cc9fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "关于初次搭建博客遇到的一些问题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "关于初次搭建博客遇到的一些问题 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "616e8392672884e4",
+  "lastOpenFiles": [
+    "model/index.md",
+    "ATRI.md",
+    "VIVO&IQOO关于i主题不降级导入字体的教程.md",
+    "未命名.md",
+    "model/cover.jpeg",
+    "未命名",
+    "2024-04-01.md",
+    "第一次建个人博客.md",
+    "model/未命名.md",
+    "model",
+    "麻了.md",
+    "棋王の诗.md",
+    "AIR.md",
+    "中秋无月.md",
+    "杂谈·One.md",
+    "饮月！！.md",
+    "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md",
+    "关于初次搭建博客遇到的一些问题.md",
+    "博客已完成迁移.md",
+    "蚌埠住了哈哈哈哈.md",
+    "3001天！.md",
+    "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md",
+    "“时光流转，愿你与珍爱之人再次相遇”.md",
+    "markdown-mermaid.md",
+    "markdown-tutorial.md",
+    "markdown-extended.md",
+    "draft.md",
+    "窝の桌面.md"
+  ]
+}
