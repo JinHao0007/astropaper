@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 27,
+  "textFontFamily": "Copperplate"
+}

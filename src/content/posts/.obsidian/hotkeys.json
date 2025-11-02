@@ -1,0 +1,20 @@
+{
+  "templater-obsidian:Templates/DayPlanner.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:Templates/DayPlanner2.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ]
+}

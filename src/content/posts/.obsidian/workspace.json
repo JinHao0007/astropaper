@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "1e28184482b8f26f",
+    "id": "e7af7aa750b50078",
     "type": "split",
     "children": [
       {
-        "id": "398e3b32dcd0e801",
+        "id": "e238680e55aa0ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "334d26f30b656a48",
+            "id": "7c1ca65ea8af9e54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "76c1f7f71659f1f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VIVO&IQOO关于i主题不降级导入字体的教程.md",
+                "file": "博客再度重出江湖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIVO&IQOO关于i主题不降级导入字体的教程"
-            }
-          },
-          {
-            "id": "3c1adc293532fff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "博客已完成迁移.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "博客已完成迁移"
+              "title": "博客再度重出江湖"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1a7ff21ed33a2dc5",
+    "id": "42622d4e7afe0d63",
     "type": "split",
     "children": [
       {
-        "id": "58a430335c69e1e4",
+        "id": "47496ece82d01de6",
         "type": "tabs",
         "children": [
           {
-            "id": "616e8392672884e4",
+            "id": "f2250596e6093599",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "7e8bccbe252fed3e",
+            "id": "d8eed1b480bf1198",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "2c4acd8ddfc356fa",
+            "id": "2774404b8d96793e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5110321044922
   },
   "right": {
-    "id": "703721ffaf29c518",
+    "id": "53b2d403386936b8",
     "type": "split",
     "children": [
       {
-        "id": "a7c3dc2b83200c3f",
+        "id": "231a1c1c35f8819f",
         "type": "tabs",
         "children": [
           {
-            "id": "a71245e6837883a7",
+            "id": "9e3cbbfa1a8b40b6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "关于初次搭建博客遇到的一些问题.md",
+                "file": "My Notes/学习/VScode使用/VScode快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +104,74 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "关于初次搭建博客遇到的一些问题 的反向链接列表"
+              "title": "VScode快捷键 的反向链接列表"
             }
           },
           {
-            "id": "f824664da249a867",
+            "id": "38fc2d9b8d867aa4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "关于初次搭建博客遇到的一些问题.md",
+                "file": "My Notes/学习/VScode使用/VScode快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "关于初次搭建博客遇到的一些问题 的出链列表"
+              "title": "VScode快捷键 的出链列表"
             }
           },
           {
-            "id": "a50d3f6bddc5b8da",
+            "id": "928dbd387f57d428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Notes/学习/VScode使用/VScode快捷键.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VScode快捷键"
+            }
+          },
+          {
+            "id": "123adf3bc60afb5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "博客再度重出江湖.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "博客再度重出江湖 的大纲"
+            }
+          },
+          {
+            "id": "5240b53019c558ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "a71999a4f358632f",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "ac6318a460a46555",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,68 +186,92 @@
             }
           },
           {
-            "id": "f0d6f304a68cc9fc",
+            "id": "95642cdaff5b1ba7",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "关于初次搭建博客遇到的一些问题.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "关于初次搭建博客遇到的一些问题 的大纲"
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
+      "audio-recorder:开始/结束录音": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
+      "obsidian-kanban:创建新看板": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "3c1adc293532fff3",
+  "active": "7c1ca65ea8af9e54",
   "lastOpenFiles": [
-    "“时光流转，愿你与珍爱之人再次相遇”.md",
-    "《活着》读后感.md",
-    "3001天！.md",
     "博客已完成迁移.md",
-    "博客再度重出江湖.md",
-    "第一次建个人博客.md",
-    "关于初次搭建博客遇到的一些问题.md",
-    "麻了.md",
-    "棋王の诗.md",
-    "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md",
-    "饮月！！.md",
-    "杂谈·One.md",
     "中秋无月.md",
-    "AIR.md",
-    "ATRI.md",
     "VIVO&IQOO关于i主题不降级导入字体的教程.md",
-    "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md",
-    "model/index.md",
-    "未命名",
-    "model/cover.jpeg",
-    "蚌埠住了哈哈哈哈.md",
-    "2024-04-01.md",
-    "model/未命名.md",
-    "model",
-    "markdown-mermaid.md",
-    "markdown-tutorial.md",
-    "markdown-extended.md",
-    "draft.md",
-    "窝の桌面.md"
+    "饮月！！.md",
+    "My Notes/摄影/曝光.md",
+    "My Notes/摄影/景深.md",
+    "My Notes/摄影/画幅.md",
+    "My Notes/小知识/LinkinPark乐队.md",
+    "images/Pasted image 20251102101112.png",
+    "images/Pasted image 20251102101011.png",
+    "images/Pasted image 20251102100955.png",
+    "My Notes/小知识/颜文字大全.md",
+    "My Notes/学习/计算机学习/嵌入式学习（计算机组成原理+数字电路）.md",
+    "My Notes/学习/计算机学习/关于GPT与MBR以及BIOS与UEFI.md",
+    "Talk/动漫语录/动漫＆Gal.md",
+    "My Notes/学习/计算机学习/嵌入式学习（模拟电路）.md",
+    "images/Pasted image 20251031170614.png",
+    "images/Pasted image 20251031170433.png",
+    "images/Pasted image 20251031170000.png",
+    "images/Pasted image 20251031165833.png",
+    "images/Pasted image 20251031131730.png",
+    "images/Pasted image 20251031114557.png",
+    "My Notes/学习/计算机学习/51单片机和C.md",
+    "images/Pasted image 20251031110219.png",
+    "Test/Test1.md",
+    "Test/Fire.md",
+    "Test/1.md",
+    "Test/未命名看板.md",
+    "未命名看板.md",
+    "DP的通用优化.md",
+    "Media Note - 一分钟了解两种载流子-电子和空穴（electrons and holes）.md",
+    "My Notes/Obsidian使用.md",
+    "Talk/花/花语.md",
+    "Talk/花/山茶.md",
+    "Talk/日本神话/月读.md",
+    "Talk/日本神话/天岩户神话.md",
+    "My Notes/学习/PCB设计",
+    "My Notes/学习/计算机学习/未命名",
+    "My Notes/学习/Android",
+    "My Notes/学习/VScode使用",
+    "My Notes/学习/编程语言/Python",
+    "My Notes/学习/编程语言/C语言",
+    "My Notes/学习/编程语言",
+    "My Notes/学习/计算机学习",
+    "My Notes/学习/驾照",
+    "素材",
+    "未命名.canvas"
   ]
 }
