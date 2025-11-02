@@ -4,8 +4,10 @@ description: Modify the code box style
 published: 2023-08-20
 tags:
   - 技术
+  - Blogging
+  - Mizuki
 sticky: 1
-image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/Screenshot_20240801_004450.jpg
+image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/111.jpeg
 ---
 
 

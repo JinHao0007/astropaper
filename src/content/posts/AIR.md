@@ -3,7 +3,10 @@ title: AIR
 description: AIR
 tags:
   - 杂谈
+  - Blogging
+  - Mizuki
 published: 2024-08-18
+image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog/preview.jpg
 ---
 
 
