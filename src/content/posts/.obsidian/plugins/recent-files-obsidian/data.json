@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "万丈高楼平地起",
+      "path": "万丈高楼平地起.md"
+    },
+    {
+      "basename": "VIVO&IQOO关于i主题不降级导入字体的教程",
+      "path": "VIVO&IQOO关于i主题不降级导入字体的教程.md"
+    },
+    {
+      "basename": "index",
+      "path": "model/index.md"
+    },
+    {
       "basename": "博客再度重出江湖",
       "path": "博客再度重出江湖.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "中秋无月",
       "path": "中秋无月.md"
-    },
-    {
-      "basename": "VIVO&IQOO关于i主题不降级导入字体的教程",
-      "path": "VIVO&IQOO关于i主题不降级导入字体的教程.md"
     },
     {
       "basename": "饮月！！",
@@ -191,14 +199,6 @@
     {
       "basename": "网络",
       "path": "My Notes/学习/计算机学习/网络.md"
-    },
-    {
-      "basename": "认识CPU",
-      "path": "My Notes/Computer/认识CPU.md"
-    },
-    {
-      "basename": "2024-04-05",
-      "path": "My Diaries And Plans/2024-04-05.md"
     }
   ],
   "omittedPaths": [],
