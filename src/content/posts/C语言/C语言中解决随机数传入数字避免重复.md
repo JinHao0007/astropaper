@@ -6,7 +6,7 @@ tags:
   - 技术
 published: 2025-11-13
 description: 在做C语言练习的时候遇到了一个要求，生成随机数并传入数组，但是传入数组的数字不能重复
-image:
+image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/Screenshot_20240801_004450.jpg
 ---
 
 

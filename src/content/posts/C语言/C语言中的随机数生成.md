@@ -6,7 +6,7 @@ tags:
   - 技术
 published: 2025-11-13
 description: 在学习C语言中随机数生成的时候感觉方法很巧妙，遂记录
-image:
+image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/Screenshot_20240801_004450.jpg
 ---
 
 ```
