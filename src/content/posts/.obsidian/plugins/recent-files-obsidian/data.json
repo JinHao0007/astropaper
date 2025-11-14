@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "C语言中的随机数生成",
+      "path": "C语言/C语言中的随机数生成.md"
+    },
+    {
+      "basename": "C语言中解决随机数传入数字避免重复",
+      "path": "C语言/C语言中解决随机数传入数字避免重复.md"
+    },
+    {
+      "basename": "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”",
+      "path": "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md"
+    },
+    {
+      "basename": "“时光流转，愿你与珍爱之人再次相遇”",
+      "path": "“时光流转，愿你与珍爱之人再次相遇”.md"
+    },
+    {
+      "basename": "博客再度重出江湖",
+      "path": "博客再度重出江湖.md"
+    },
+    {
       "basename": "万丈高楼平地起",
       "path": "万丈高楼平地起.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "index",
       "path": "model/index.md"
-    },
-    {
-      "basename": "博客再度重出江湖",
-      "path": "博客再度重出江湖.md"
     },
     {
       "basename": "博客已完成迁移",
@@ -183,22 +199,6 @@
     {
       "basename": "Music",
       "path": "My Notes/小知识/Music.md"
-    },
-    {
-      "basename": "月相",
-      "path": "My Notes/小知识/月相.md"
-    },
-    {
-      "basename": "单片机驱动能力强弱",
-      "path": "素材/单片机驱动能力强弱.md"
-    },
-    {
-      "basename": "未来规划",
-      "path": "Talk/未来规划.md"
-    },
-    {
-      "basename": "网络",
-      "path": "My Notes/学习/计算机学习/网络.md"
     }
   ],
   "omittedPaths": [],

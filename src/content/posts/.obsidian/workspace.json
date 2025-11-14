@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "博客再度重出江湖.md",
+                "file": "C语言/C语言中的随机数生成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "博客再度重出江湖"
+              "title": "C语言中的随机数生成"
             }
           },
           {
@@ -34,9 +34,34 @@
               "icon": "lucide-file",
               "title": "万丈高楼平地起"
             }
+          },
+          {
+            "id": "8fd3c12ca8684c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言/C语言中解决随机数传入数字避免重复.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C语言中解决随机数传入数字避免重复"
+            }
+          },
+          {
+            "id": "9fbc592c9394f8ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "万丈高楼平地起.md",
+                "file": "C语言学习.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "万丈高楼平地起 的大纲"
+              "title": "C语言学习 的大纲"
             }
           },
           {
@@ -215,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,12 +265,17 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "be82155a51053af5",
+  "active": "7c1ca65ea8af9e54",
   "lastOpenFiles": [
+    "C语言/C语言中解决随机数传入数字避免重复.md",
+    "C语言/C语言中的随机数生成.md",
+    "C语言",
+    "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md",
+    "“时光流转，愿你与珍爱之人再次相遇”.md",
+    "博客再度重出江湖.md",
+    "万丈高楼平地起.md",
     "VIVO&IQOO关于i主题不降级导入字体的教程.md",
     "model/index.md",
-    "万丈高楼平地起.md",
-    "博客再度重出江湖.md",
     "博客已完成迁移.md",
     "中秋无月.md",
     "饮月！！.md",
@@ -273,10 +304,6 @@
     "Test/1.md",
     "Test/未命名看板.md",
     "未命名看板.md",
-    "DP的通用优化.md",
-    "Media Note - 一分钟了解两种载流子-电子和空穴（electrons and holes）.md",
-    "My Notes/Obsidian使用.md",
-    "Talk/花/花语.md",
     "My Notes/学习/PCB设计",
     "My Notes/学习/计算机学习/未命名",
     "My Notes/学习/Android",
@@ -286,7 +313,6 @@
     "My Notes/学习/编程语言",
     "My Notes/学习/计算机学习",
     "My Notes/学习/驾照",
-    "素材",
     "未命名.canvas"
   ]
 }
