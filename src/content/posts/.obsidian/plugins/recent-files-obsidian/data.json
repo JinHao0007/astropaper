@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "解决电脑提示内存不足的问题",
+      "path": "解决电脑提示内存不足的问题.md"
+    },
+    {
+      "basename": "VIVO&IQOO关于i主题不降级导入字体的教程",
+      "path": "VIVO&IQOO关于i主题不降级导入字体的教程.md"
+    },
+    {
       "basename": "C语言中解决随机数传入数字避免重复",
       "path": "C语言/C语言中解决随机数传入数字避免重复.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了",
       "path": "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md"
-    },
-    {
-      "basename": "VIVO&IQOO关于i主题不降级导入字体的教程",
-      "path": "VIVO&IQOO关于i主题不降级导入字体的教程.md"
     },
     {
       "basename": "ATRI",
@@ -195,10 +199,6 @@
     {
       "basename": "电路分析基础",
       "path": "My Notes/学习/PCB设计/电路分析基础.md"
-    },
-    {
-      "basename": "Root",
-      "path": "My Notes/学习/Android/Root.md"
     }
   ],
   "omittedPaths": [],
