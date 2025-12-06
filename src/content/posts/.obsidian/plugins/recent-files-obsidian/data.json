@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "解决电脑提示内存不足的问题",
-      "path": "解决电脑提示内存不足的问题.md"
+      "basename": "液位控制系统",
+      "path": "技术类/液位控制系统.md"
     },
     {
       "basename": "VIVO&IQOO关于i主题不降级导入字体的教程",
-      "path": "VIVO&IQOO关于i主题不降级导入字体的教程.md"
+      "path": "技术类/VIVO&IQOO关于i主题不降级导入字体的教程.md"
+    },
+    {
+      "basename": "凑了四年的配队，终于齐啦",
+      "path": "游戏and杂谈/凑了四年的配队，终于齐啦.md"
     },
     {
       "basename": "C语言中解决随机数传入数字避免重复",
@@ -17,52 +21,60 @@
       "path": "C语言/C语言中的随机数生成.md"
     },
     {
-      "basename": "3001天！",
-      "path": "3001天！.md"
-    },
-    {
-      "basename": "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了",
-      "path": "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md"
-    },
-    {
-      "basename": "ATRI",
-      "path": "ATRI.md"
-    },
-    {
-      "basename": "博客再度重出江湖",
-      "path": "博客再度重出江湖.md"
-    },
-    {
-      "basename": "博客已完成迁移",
-      "path": "博客已完成迁移.md"
-    },
-    {
-      "basename": "《活着》读后感",
-      "path": "《活着》读后感.md"
-    },
-    {
-      "basename": "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”",
-      "path": "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md"
-    },
-    {
-      "basename": "“时光流转，愿你与珍爱之人再次相遇”",
-      "path": "“时光流转，愿你与珍爱之人再次相遇”.md"
-    },
-    {
-      "basename": "万丈高楼平地起",
-      "path": "万丈高楼平地起.md"
+      "basename": "饮月！！",
+      "path": "游戏and杂谈/饮月！！.md"
     },
     {
       "basename": "index",
       "path": "model/index.md"
     },
     {
-      "basename": "中秋无月",
-      "path": "中秋无月.md"
+      "basename": "cover",
+      "path": "model/cover.jpeg"
     },
     {
-      "basename": "饮月！！",
-      "path": "饮月！！.md"
+      "basename": "博客再度重出江湖",
+      "path": "游戏and杂谈/博客再度重出江湖.md"
+    },
+    {
+      "basename": "博客已完成迁移",
+      "path": "游戏and杂谈/博客已完成迁移.md"
+    },
+    {
+      "basename": "解决电脑提示内存不足的问题",
+      "path": "技术类/解决电脑提示内存不足的问题.md"
+    },
+    {
+      "basename": "3001天！",
+      "path": "游戏and杂谈/3001天！.md"
+    },
+    {
+      "basename": "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了",
+      "path": "技术类/玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md"
+    },
+    {
+      "basename": "ATRI",
+      "path": "游戏and杂谈/ATRI.md"
+    },
+    {
+      "basename": "《活着》读后感",
+      "path": "游戏and杂谈/《活着》读后感.md"
+    },
+    {
+      "basename": "“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”",
+      "path": "游戏and杂谈/“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md"
+    },
+    {
+      "basename": "“时光流转，愿你与珍爱之人再次相遇”",
+      "path": "游戏and杂谈/“时光流转，愿你与珍爱之人再次相遇”.md"
+    },
+    {
+      "basename": "万丈高楼平地起",
+      "path": "游戏and杂谈/万丈高楼平地起.md"
+    },
+    {
+      "basename": "中秋无月",
+      "path": "游戏and杂谈/中秋无月.md"
     },
     {
       "basename": "颜文字大全",
@@ -187,18 +199,6 @@
     {
       "basename": "Word  （Vocabulary）",
       "path": "My Notes/学习/Word  （Vocabulary）.md"
-    },
-    {
-      "basename": "概率",
-      "path": "My Notes/学习/概率.md"
-    },
-    {
-      "basename": "VScode快捷键",
-      "path": "My Notes/学习/VScode使用/VScode快捷键.md"
-    },
-    {
-      "basename": "电路分析基础",
-      "path": "My Notes/学习/PCB设计/电路分析基础.md"
     }
   ],
   "omittedPaths": [],
