@@ -22,29 +22,17 @@
             }
           },
           {
-            "id": "8fd3c12ca8684c6c",
+            "id": "9fbc592c9394f8ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术类/复活吧，我的玩客云.md",
+                "file": "游戏and杂谈/5个小时，你知道这5个小时我是怎么过来的吗.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "复活吧，我的玩客云"
-            }
-          },
-          {
-            "id": "9fbc592c9394f8ca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
+              "title": "5个小时，你知道这5个小时我是怎么过来的吗"
             }
           }
         ],
@@ -252,14 +240,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "8fd3c12ca8684c6c",
+  "active": "9fbc592c9394f8ca",
   "lastOpenFiles": [
-    "技术类/玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md",
+    "游戏and杂谈/5个小时，你知道这5个小时我是怎么过来的吗.md",
+    "游戏and杂谈/“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md",
+    "游戏and杂谈/“时光流转，愿你与珍爱之人再次相遇”.md",
     "技术类/复活吧，我的玩客云.md",
+    "技术类/玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md",
     "技术类/液位控制系统.md",
     "游戏and杂谈/至那艰苦且又充满意义的高中生活.md",
     "游戏and杂谈/这样，就够了....md",
-    "游戏and杂谈/“时光流转，愿你与珍爱之人再次相遇”.md",
     "技术类/VIVO&IQOO关于i主题不降级导入字体的教程.md",
     "游戏and杂谈/凑了四年的配队，终于齐啦.md",
     "C语言/C语言中解决随机数传入数字避免重复.md",
@@ -276,7 +266,6 @@
     "游戏and杂谈/ATRI.md",
     "游戏and杂谈/《活着》读后感.md",
     "C语言",
-    "游戏and杂谈/“愿世上再无饿殍，愿禾稻能乘凉。 致以崇高的敬意。”.md",
     "游戏and杂谈/万丈高楼平地起.md",
     "游戏and杂谈/中秋无月.md",
     "My Notes/摄影/曝光.md",
@@ -286,7 +275,6 @@
     "images/Pasted image 20251102101112.png",
     "images/Pasted image 20251102101011.png",
     "images/Pasted image 20251102100955.png",
-    "My Notes/小知识/颜文字大全.md",
     "images/Pasted image 20251031170614.png",
     "images/Pasted image 20251031170433.png",
     "images/Pasted image 20251031170000.png",
