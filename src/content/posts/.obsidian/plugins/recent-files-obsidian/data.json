@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "24年电赛H题",
+      "path": "技术类/24年电赛H题.md"
+    },
+    {
+      "basename": "液位控制系统",
+      "path": "技术类/液位控制系统.md"
+    },
+    {
       "basename": "5个小时，你知道这5个小时我是怎么过来的吗",
       "path": "游戏and杂谈/5个小时，你知道这5个小时我是怎么过来的吗.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了",
       "path": "技术类/玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md"
-    },
-    {
-      "basename": "液位控制系统",
-      "path": "技术类/液位控制系统.md"
     },
     {
       "basename": "至那艰苦且又充满意义的高中生活",
@@ -195,10 +199,6 @@
     {
       "basename": "DayPlanner2",
       "path": "Templates/DayPlanner2.md"
-    },
-    {
-      "basename": "AIR",
-      "path": "Talk/动漫语录/AIR.md"
     }
   ],
   "omittedPaths": [],
