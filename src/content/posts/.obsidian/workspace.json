@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5110321044922,
-    "collapsed": true
+    "width": 230.5110321044922
   },
   "right": {
     "id": "53b2d403386936b8",
@@ -224,14 +223,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "500bee437956908c",
+            "type": "leaf",
+            "state": {
+              "type": "auto-push-view",
+              "state": {},
+              "icon": "rocket",
+              "title": "博客发布中心"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,10 +260,11 @@
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
       "copilot:Open Copilot Chat": false,
-      "smart-composer:Open smart composer": false
+      "smart-composer:Open smart composer": false,
+      "sample-plugin:打开一键推送控制台": false
     }
   },
-  "active": "95b720b07a99dbf1",
+  "active": "500bee437956908c",
   "lastOpenFiles": [
     "技术类/液位控制系统.md",
     "技术类/24年电赛H题.md",
