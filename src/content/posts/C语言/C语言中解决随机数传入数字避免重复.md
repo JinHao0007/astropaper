@@ -12,7 +12,7 @@ image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/Screenshot_20240801_0044
 
 最初的代码
 ```
-// 要求数据不能重复，存入之前先做判断
+// 要求数据不能重复，存入之前先做判断  
 for ( i = 0; i < len; i++ )
 {
     for ( j = 0; j < len; j++ ) 
