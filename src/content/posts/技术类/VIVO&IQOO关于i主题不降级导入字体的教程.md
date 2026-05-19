@@ -12,7 +12,7 @@ image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/111.jpeg
 
 
 
-VIVO&IQOO关于i主题不降级导入字体的教程。
+VIVO&IQOO关于i主题不降级导入字体的教程:
 
 注：1：本方法仅适用于系统自带的文件管理版本号小于等于6.11.3.0
             若系统自带的文件管理版本号大于6.11.3.0且无法降级的话就不行了，vtools+跳转目录为/data/bbkcore/theme/，看有没有大佬能研究出无root访问/data并读写的办法了（受虐滑稽）
