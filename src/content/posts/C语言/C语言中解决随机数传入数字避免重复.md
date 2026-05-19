@@ -12,7 +12,7 @@ image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog@main/Screenshot_20240801_0044
 
 最初的代码
 ```
-// 要求数据不能重复，存入之前先做判断  
+// 要求数据不能重复，存入之前先做判断哦
 for ( i = 0; i < len; i++ )
 {
     for ( j = 0; j < len; j++ ) 
@@ -69,4 +69,5 @@ for ( i = 0; i < len; i++
 但是还不行，这样只判断了录入的那个随机数和当前的j位置不重复，不能保证和整个数组里的数字不重复。也就是说，我在内循环中修改了Ran后，不能保证我的Ran不与数组中其他元素不重复，最终使用goto解决:
 
 ![|475](https://cdn.jsdelivr.net/gh/JinHao0007/Blog/20251113195828908.png)
+
 

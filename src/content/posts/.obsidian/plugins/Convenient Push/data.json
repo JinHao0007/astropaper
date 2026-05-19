@@ -1,6 +1,6 @@
 {
-  "cloudSwitch": true,
-  "baseSavePath": "",
+  "cloudSwitch": false,
+  "baseSavePath": "D:\\Astro-Test3\\mizuki\\src\\content",
   "cloudSavePath": " http://127.0.0.1:36677/upload",
   "gitPushSwitch": true,
   "gitRepoUrl": "D:\\Astro-Test3\\mizuki",
