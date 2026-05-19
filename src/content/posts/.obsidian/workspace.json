@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术类/VIVO&IQOO关于i主题不降级导入字体的教程.md",
+                "file": "C语言/C语言中解决随机数传入数字避免重复.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIVO&IQOO关于i主题不降级导入字体的教程"
+              "title": "C语言中解决随机数传入数字避免重复"
             }
           }
         ],
@@ -261,11 +261,16 @@
       "smart-connections:Open: View Smart Connections": false,
       "copilot:Open Copilot Chat": false,
       "smart-composer:Open smart composer": false,
-      "sample-plugin:打开一键推送控制台": false
+      "Convenient-Push:打开Convenient-Push控制台": false
     }
   },
-  "active": "95b720b07a99dbf1",
+  "active": "500bee437956908c",
   "lastOpenFiles": [
+    "model/index.md",
+    "model/cover.jpeg",
+    "C语言/C语言中解决随机数传入数字避免重复.md",
+    "C语言/C语言中的随机数生成.md",
+    "技术类/VIVO&IQOO关于i主题不降级导入字体的教程.md",
     "技术类/24年电赛H题.md",
     "技术类/液位控制系统.md",
     "游戏and杂谈/5个小时，你知道这5个小时我是怎么过来的吗.md",
@@ -275,13 +280,8 @@
     "技术类/玩客云通过网线共享windows网络，“机顶盒”再也不用放客厅了.md",
     "游戏and杂谈/至那艰苦且又充满意义的高中生活.md",
     "游戏and杂谈/这样，就够了....md",
-    "技术类/VIVO&IQOO关于i主题不降级导入字体的教程.md",
     "游戏and杂谈/凑了四年的配队，终于齐啦.md",
-    "C语言/C语言中解决随机数传入数字避免重复.md",
-    "C语言/C语言中的随机数生成.md",
     "游戏and杂谈/饮月！！.md",
-    "model/index.md",
-    "model/cover.jpeg",
     "游戏and杂谈/博客再度重出江湖.md",
     "技术类",
     "游戏and杂谈/博客已完成迁移.md",
@@ -295,7 +295,6 @@
     "游戏and杂谈/中秋无月.md",
     "My Notes/摄影/曝光.md",
     "My Notes/摄影/景深.md",
-    "My Notes/摄影/画幅.md",
     "images/Pasted image 20251102101112.png",
     "images/Pasted image 20251102101011.png",
     "images/Pasted image 20251102100955.png",

@@ -1,0 +1,10 @@
+{
+	"id": "Convenient-Push",
+	"name": "Convenient Push",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "一个便捷推送博文+便捷上传图片的obsidian插件",
+	"author": "JinHao0007",
+	"authorUrl": "https://github.com/JinHao0007/Convenient-Push",
+	"isDesktopOnly": true
+}

@@ -1,0 +1,8 @@
+{
+  "cloudSwitch": true,
+  "baseSavePath": " http://127.0.0.1:36677/upload",
+  "cloudSavePath": " http://127.0.0.1:36677/upload",
+  "gitPushSwitch": true,
+  "gitRepoUrl": "D:\\Astro-Test3\\mizuki",
+  "currentProvider": "picgo"
+}
