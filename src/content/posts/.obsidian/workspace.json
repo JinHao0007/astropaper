@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/C语言中解决随机数传入数字避免重复.md",
+                "file": "技术类/记录：白嫖网页版gpt的api.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C语言中解决随机数传入数字避免重复"
+              "title": "记录：白嫖网页版gpt的api"
             }
           }
         ],
@@ -266,9 +266,11 @@
   },
   "active": "95b720b07a99dbf1",
   "lastOpenFiles": [
+    "技术类/关于初次搭建博客遇到的一些问题.md",
+    "技术类/记录：白嫖网页版gpt的api.md",
+    "C语言/C语言中解决随机数传入数字避免重复.md",
     "model/index.md",
     "model/cover.jpeg",
-    "C语言/C语言中解决随机数传入数字避免重复.md",
     "C语言/C语言中的随机数生成.md",
     "技术类/VIVO&IQOO关于i主题不降级导入字体的教程.md",
     "技术类/24年电赛H题.md",
@@ -294,7 +296,6 @@
     "游戏and杂谈/万丈高楼平地起.md",
     "游戏and杂谈/中秋无月.md",
     "My Notes/摄影/曝光.md",
-    "My Notes/摄影/景深.md",
     "images/Pasted image 20251102101112.png",
     "images/Pasted image 20251102101011.png",
     "images/Pasted image 20251102100955.png",

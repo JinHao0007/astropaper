@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "记录：白嫖网页版gpt的api",
+      "path": "技术类/记录：白嫖网页版gpt的api.md"
+    },
+    {
+      "basename": "关于初次搭建博客遇到的一些问题",
+      "path": "技术类/关于初次搭建博客遇到的一些问题.md"
+    },
+    {
       "basename": "C语言中解决随机数传入数字避免重复",
       "path": "C语言/C语言中解决随机数传入数字避免重复.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Color",
       "path": "Templates/Color.md"
-    },
-    {
-      "basename": "DayPlanner",
-      "path": "Templates/DayPlanner.md"
-    },
-    {
-      "basename": "DayPlanner2",
-      "path": "Templates/DayPlanner2.md"
     }
   ],
   "omittedPaths": [],
