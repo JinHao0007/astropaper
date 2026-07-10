@@ -8,7 +8,7 @@ tags:
 image: https://cdn.jsdelivr.net/gh/JinHao0007/Blog/20260710121503680.png
 published: 2026-07-10
 ---
-最近deepseek的api不是涨价了嘛，每天光是推送新闻，聊两句天就要7毛钱，钱包撑不住啊qwq，于是只能另寻他法，找别家模型，貌似都不便宜，中转站和那些免费的模型质量又不敢保证，于是，走向了一条不归路（bushi）——去白嫖token.
+最近deepseek的api不是涨价了嘛，每天光是推送新闻，聊两句天就要7毛钱，钱包撑不住啊qwq，于是只能另寻他法，找别家模型，貌似都不便宜，中转站和那些免费的模型质量又不敢保证，于是，走向了一条不归路（bushi）——去白嫖token..
 起初，目标是deepseek,然后再github上面看到几个开源的逆向api工程，issue中很多人反馈秒封，不敢用了，最终，矛头指向了chatgpt；先是花6软妹币买了一个plus的日抛号，然后找到了这个工程：
 [basketikun/chatgpt2api: ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件](https://github.com/basketikun/chatgpt2api)
 
