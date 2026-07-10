@@ -12,7 +12,7 @@ published: 2026-07-10
 起初，目标是deepseek,然后再github上面看到几个开源的逆向api工程，issue中很多人反馈秒封，不敢用了，最终，矛头指向了chatgpt；先是花6软妹币买了一个plus的日抛号，然后找到了这个工程：
 [basketikun/chatgpt2api: ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件](https://github.com/basketikun/chatgpt2api)
 
-当时没细看嘛，以为拿到api就能直接用了，费劲千辛万苦拿到api后，也确实可以用，接astrbot没啥问题，但是接入claude code就会出现问题了：
+当时没细看嘛，以为拿到api就能直接用了，费劲千辛万苦拿到api后，也确实可以用，接astrbot没啥问题，但是接入claude code就会出现问题：
 ![image](https://cdn.jsdelivr.net/gh/JinHao0007/Blog/img_1783654930468.png)
 也就是说，它只能像在网页端和你聊天一样，不能帮你干活，那我要你有哈用啊·-·（bushi）
 去查了一下发现，网页版的gpt不支持调用自定义工具，仅仅支持官方硬编码的几个插件，所以逆向出来的api也是不能用的,
